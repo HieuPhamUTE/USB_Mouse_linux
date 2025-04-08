@@ -9,7 +9,6 @@ After that, we save data in the text file and upload this data (with json char) 
 Thank you for your support.
 
 Code team:
-Pham Ngoc Hieu
-Nguyen Nhat Phap
+Pham Ngoc Hieu and Nguyen Nhat Phap
 HCMUTE
 Instructor: Dr. Bui Ha Duc
